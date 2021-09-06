@@ -20,6 +20,9 @@
     <ClCompile Include="path.cpp">
       <Filter>path</Filter>
     </ClCompile>
+    <ClCompile Include="entry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="path.hpp">
